@@ -143,6 +143,21 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Streamlit specific
+.streamlit/
+
+# Local database & backups
+database.db
+*.db
+*.db-journal
+*.sqlite3
+*.sqlite3-journal
+
+# Output files (charts, screenshots, demo videos)
+output/*.png
+output/*.mp4
+output/*.csv
+output/*.json
 
 # Spyder project settings
 .spyderproject

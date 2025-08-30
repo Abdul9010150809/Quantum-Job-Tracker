@@ -1,0 +1,17 @@
+# UI / Dashboard
+streamlit>=1.35
+
+# Quantum SDK
+qiskit>=1.0.0
+qiskit-aer>=0.15.1   # Aer simulator (required for circuits)
+
+# Data handling & visualization
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# APIs / AI
+openai>=1.0.0
+requests>=2.30.0
+
+# Database
+sqlite-utils>=3.35.0   # easy SQLite wrapper
