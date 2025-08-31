@@ -295,4 +295,3 @@ For questions or support:
 
 Built with ❤️ for the quantum computing community
 
-> "Managing quantum jobs
