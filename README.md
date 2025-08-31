@@ -1,7 +1,6 @@
 # Quantum Job Tracker 🌌
 
 ![Streamlit Badge](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Qiskit ≥1.0.0](https://img.shields.io/badge/Qiskit-%E2%89%A51.0.0-6133BD.svg)
 
