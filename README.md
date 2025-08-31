@@ -108,7 +108,6 @@ Quantum-Job-Tracker/
 │   └── quantum_jobs.db
 │
 ├── output/                # Demo & docs (can keep for showcase)
-│   ├── quantum-job-tracker.mp4
 │   └── Quantum-job-tracker.pdf
 │
 ├── wheels/                # Optional: prebuilt Python wheels
@@ -118,6 +117,11 @@ Quantum-Job-Tracker/
 └── __pycache__/           # Python cache files (ignored)
 
 ```
+##  Demo Video
+
+Watch the live demo of the Quantum Job Tracker in action:
+
+[▶️ Watch the Demo on OneDrive](https://1drv.ms/v/c/c45abcc5ef40a72b/EZzp3guZpspHomOBTR5eIS0BNTv8WuW4O1oASHtZquhpGA?e=wVHsxS)
 
 ---
 
