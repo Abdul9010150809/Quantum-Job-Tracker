@@ -6,8 +6,6 @@
 
 A comprehensive quantum computing job tracking and management platform developed for the Quantum Valley Internal Hackathon. This application provides real-time monitoring, analytics, and management of quantum computing jobs with advanced visualization capabilities.
 
-![Dashboard Preview](https://output/dashboard_preview.png)
-
 ---
 
 ## 🏆 Hackathon Project
