@@ -1,17 +1,27 @@
-# UI / Dashboard
-streamlit>=1.35
+# Core Framework
+streamlit>=1.35.0
 
-# Quantum SDK
+# Quantum Computing
 qiskit>=1.0.0
-qiskit-aer>=0.15.1   # Aer simulator (required for circuits)
+qiskit-aer>=0.15.1
+qiskit-ibm-runtime>=0.11.0
 
-# Data handling & visualization
+# Data Processing & Analysis
 pandas>=2.0.0
+numpy>=1.24.0
+sympy>=1.11.0
+
+# Visualization
 matplotlib>=3.7.0
+plotly>=5.11.0
 
-# APIs / AI
-openai>=1.0.0
+# Web Scraping & APIs
 requests>=2.30.0
+beautifulsoup4>=4.11.0
+lxml>=4.9.0
+openai>=1.0.0
 
-# Database
-sqlite-utils>=3.35.0   # easy SQLite wrapper
+# Database & Utilities
+sqlite-utils>=3.35.0
+python-dotenv>=0.19.0
+twilio>=8.0.0
